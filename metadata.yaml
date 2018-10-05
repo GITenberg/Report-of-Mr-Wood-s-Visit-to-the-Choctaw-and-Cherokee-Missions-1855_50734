@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Report of Mr. Wood's Visit to the Choctaw and Cherokee Missions. 1855
 url: http://www.gutenberg.org/ebooks/50734
